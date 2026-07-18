@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 TaskAI
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -311,3 +312,7 @@ Built using
 ---
 
 ⭐ If you found this project interesting, consider giving it a star.
+=======
+# taskai
+Cloud-native SaaS platform for task management, document management, and workflow automation built with React, Python, AWS, and PostgreSQL.
+>>>>>>> a147c19f02f8a2a650f0637796a4dd3a6760f724
